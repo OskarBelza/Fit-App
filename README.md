@@ -22,7 +22,7 @@
 ![Upcoming Workouts](./screenshots/upcoming_workouts.png)
 
 ### Schedule a Workout
-![Schedule Workout](./screenshots/schedule_workout.png)
+![Schedule Workout](./screenshots/schedule_workouts.png)
 
 ### Completed Workouts
 ![Completed Workouts](./screenshots/completed_workouts.png)
@@ -50,5 +50,5 @@
 - Personalized workout goals.
 
 ## Author
-- [Your Name](https://github.com/username)
+- Oskar Bełza
 
