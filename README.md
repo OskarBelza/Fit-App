@@ -38,7 +38,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/FitTracker.git
+   git clone https://github.com/OskarBelza/Fit-App
    ```
 2. Open the project in **Android Studio**.
 3. Run the app on an emulator or a physical device.
